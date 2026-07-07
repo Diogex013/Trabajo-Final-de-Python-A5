@@ -1,0 +1,5 @@
+ESTADISTICAS DE LA BIBLIOTECA
+-----------------------------
+Total de prestamos historicos: 1
+Total de dinero recaudado por multas: $0.0
+Libro mas solicitado: Fahrenheit 451 (1 prestamos)
